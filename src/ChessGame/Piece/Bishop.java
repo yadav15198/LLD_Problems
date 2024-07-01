@@ -13,5 +13,6 @@ public class Bishop extends Piece {
         int r = this.row;
         int c = this.col;
         return false;
+
     }
 }

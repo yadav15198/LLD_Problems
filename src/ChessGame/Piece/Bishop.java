@@ -10,7 +10,6 @@ public class Bishop extends Piece {
 
     @Override
     public boolean canMove(int source, int destination) {
-
         int r = this.row;
         int c = this.col;
         return false;
